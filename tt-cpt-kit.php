@@ -3,7 +3,7 @@
  * Plugin Name: TT CPT Kit
  * Plugin URI: https://wordpress.org/plugins/tt-cpt-kit/
  * Description: Custom post type and Taxonomy functionality for WordPress Themes build by ThemesTitan. Please do not waste your time with this plugin if you are not using one of the themes from ThemesTitan.
- * Version: 1.1
+ * Version: 1.1.1
  * Author: Vishal Deshpande
  * Author URI: http://themestitan.com
  * Text Domain: tt_cpt
